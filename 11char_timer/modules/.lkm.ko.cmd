@@ -1,0 +1,1 @@
+cmd_/home/ankit/Desktop/emb/char_drv/11char_timer/lkm.ko := ld -r -m elf_x86_64 -T /usr/src/kernels/3.11.10-301.fc20.x86_64/scripts/module-common.lds --build-id  -o /home/ankit/Desktop/emb/char_drv/11char_timer/lkm.ko /home/ankit/Desktop/emb/char_drv/11char_timer/lkm.o /home/ankit/Desktop/emb/char_drv/11char_timer/lkm.mod.o

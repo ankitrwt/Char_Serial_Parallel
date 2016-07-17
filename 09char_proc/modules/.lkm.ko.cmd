@@ -1,0 +1,1 @@
+cmd_/home/eblogic/Desktop/09char_proc/lkm.ko := ld -r -m elf_i386 -T /usr/src/kernels/2.6.43.8-1.fc15.i686.PAE/scripts/module-common.lds --build-id  -o /home/eblogic/Desktop/09char_proc/lkm.ko /home/eblogic/Desktop/09char_proc/lkm.o /home/eblogic/Desktop/09char_proc/lkm.mod.o

@@ -1,0 +1,2 @@
+/home/ankit/Desktop/emb/char_drv/12char_pp/lkm.ko
+/home/ankit/Desktop/emb/char_drv/12char_pp/init.o /home/ankit/Desktop/emb/char_drv/12char_pp/clean.o /home/ankit/Desktop/emb/char_drv/12char_pp/file_open.o /home/ankit/Desktop/emb/char_drv/12char_pp/file_close.o /home/ankit/Desktop/emb/char_drv/12char_pp/file_write.o /home/ankit/Desktop/emb/char_drv/12char_pp/file_read.o /home/ankit/Desktop/emb/char_drv/12char_pp/file_ioctl.o

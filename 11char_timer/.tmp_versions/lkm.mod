@@ -1,0 +1,2 @@
+/home/ankit/Desktop/emb/char_drv/11char_timer/lkm.ko
+/home/ankit/Desktop/emb/char_drv/11char_timer/init.o /home/ankit/Desktop/emb/char_drv/11char_timer/clean.o /home/ankit/Desktop/emb/char_drv/11char_timer/file_open.o /home/ankit/Desktop/emb/char_drv/11char_timer/file_close.o /home/ankit/Desktop/emb/char_drv/11char_timer/file_write.o /home/ankit/Desktop/emb/char_drv/11char_timer/file_read.o /home/ankit/Desktop/emb/char_drv/11char_timer/file_ioctl.o /home/ankit/Desktop/emb/char_drv/11char_timer/file_ISR.o

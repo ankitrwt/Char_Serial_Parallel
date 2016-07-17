@@ -1,0 +1,1 @@
+cmd_/home/ankit/Desktop/emb/char_drv/14char_sp/newdev/lkm.o := ld -m elf_x86_64   -r -o /home/ankit/Desktop/emb/char_drv/14char_sp/newdev/lkm.o /home/ankit/Desktop/emb/char_drv/14char_sp/newdev/init.o /home/ankit/Desktop/emb/char_drv/14char_sp/newdev/clean.o 

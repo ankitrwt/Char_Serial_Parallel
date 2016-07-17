@@ -1,0 +1,1 @@
+cmd_/home/ankit/Desktop/emb/char_drv/01char/lkm.o := ld -m elf_x86_64   -r -o /home/ankit/Desktop/emb/char_drv/01char/lkm.o /home/ankit/Desktop/emb/char_drv/01char/init.o /home/ankit/Desktop/emb/char_drv/01char/clean.o 

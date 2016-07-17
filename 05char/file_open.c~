@@ -1,0 +1,21 @@
+#include "header.h"
+//#include "file_op.h"
+
+ int open_dev (struct inode *, struct file *);
+ int close_dev (struct inode *, struct file *);
+
+struct file_operations fops = {
+	open : open_dev,
+	release : close_dev
+};
+
+int open_dev(struct inode * node,struct file *mydev)
+{
+	#ifdef DEBUG
+	printk(KERN_INFO "file open\n");
+	#endif
+
+
+return 0;
+}
+

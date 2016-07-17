@@ -1,0 +1,1 @@
+cmd_/home/ankit/Desktop/emb/char_drv/14char_sp/newdev/lkm.ko := ld -r -m elf_x86_64 -T /usr/src/kernels/3.11.10-301.fc20.x86_64/scripts/module-common.lds --build-id  -o /home/ankit/Desktop/emb/char_drv/14char_sp/newdev/lkm.ko /home/ankit/Desktop/emb/char_drv/14char_sp/newdev/lkm.o /home/ankit/Desktop/emb/char_drv/14char_sp/newdev/lkm.mod.o
